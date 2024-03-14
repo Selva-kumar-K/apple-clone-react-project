@@ -108,7 +108,7 @@ export const card_data_2 = [
         title : 'TODAY AT APPLE',
         qoute : "Join free sessions at your Apple Store.",
         // price: 'Shop the latest strap styles and colors.',
-        tag: 'Learn abou the latest features and how to go further with you Apple devices.',
+        tag: 'Learn about the latest features and how to go further with you Apple devices.',
         img : './src/assets/card/session.jpg'
     },
     {
@@ -124,4 +124,43 @@ export const card_data_2 = [
         // price: 'Shop the latest strap styles and colors.',
         img : './src/assets/card/support.jpg'
     },
+]
+
+export const accessories = [
+    {
+        new_brand : "New",
+        title : "iPhone 15 Silicone Case with MagSafe - Light Blue",
+        price : "MRP ₹4900.00 (Incl. of all taxes)",
+        img : './src/assets/card/iphone_photo.jpg'
+    },
+    {
+        new_brand : "New",
+        title : "iPhone FineWoven Wallet with MagSafe - Pacific Blue",
+        price : "MRP ₹5900.00 (Incl. of all taxes)",
+        img : './src/assets/card/magsafe.jpg'
+    },
+    {
+        new_brand : "New",
+        title : "45mm Soft Mint Sport Loop",
+        price : "MRP ₹4500.00 (Incl. of all taxes)",
+        img : './src/assets/card/sport_loop.jpg'
+    },
+    {
+        new_brand : "New",
+        title : "45mm Sunshine Sport Band - M/L",
+        price : "MRP ₹4500.00 (Incl. of all taxes)",
+        img : './src/assets/card/sportband.jpg'
+    },
+    {
+        new_brand : "New",
+        title : "iPhone 15 Pro FineWoven Case with MagSafe - Evergreen",
+        price : "MRP ₹5900.00 (Incl. of all taxes)",
+        img : './src/assets/card/iphone15_pro_magsafe.jpg'
+    },
+    {
+        new_brand : "New",
+        title : "AirTag FineWoven Key Ring - Coral",
+        price : "MRP ₹3900.00 (Incl. of all taxes)",
+        img : './src/assets/card/airtag.jpg'
+    }
 ]
